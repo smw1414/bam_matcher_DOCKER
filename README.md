@@ -1,5 +1,5 @@
 # Usage
-hg19 can be cahanged to hg38
+hg19 can be changed to hg38
 ```shell
 docker run --rm  \
 -v  /path/to/ucsc.hg19.fa:/genome_files/hg19.fa \
